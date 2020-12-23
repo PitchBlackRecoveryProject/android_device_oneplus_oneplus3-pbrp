@@ -89,3 +89,5 @@ TW_USE_TOOLBOX := true
 
 # PBRP specific build flags
 PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
+TW_USE_QCOM_HAPTICS_VIBRATOR := true
+TW_USE_LEDS_HAPTICS := true
