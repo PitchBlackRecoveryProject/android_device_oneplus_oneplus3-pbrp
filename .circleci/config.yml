@@ -14,7 +14,7 @@ jobs:
       VENDOR: 'oneplus'
       CODENAME: 'oneplus3'
       FLAVOR: 'eng'
-      TEST_BUILD: 'true'
+      PB_OFFICIAL: 'true'
       MAINTAINER: '@dlasdl'
       CHANGELOG: |
         - Test Build
